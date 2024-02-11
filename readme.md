@@ -40,3 +40,8 @@ write setup() function inside it.
 step 14: create src folder and create __init__.py file
 run python python setup.py install
 
+step 15: save everithing git
+git add.
+git push origin main
+
+
