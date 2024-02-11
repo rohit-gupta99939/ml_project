@@ -44,4 +44,15 @@ step 15: save everithing git
 git add.
 git push origin main
 
+step 16: create template.py file
+run python template.py
+
+step 17: write code inside src/mlproject/logging.py and exception.py and app.py
+run 
+python app.py
+
+step 18: git hub add .
+git commit -m "logging and exception code writen"
+git push origin main
+
 
