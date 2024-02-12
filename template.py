@@ -23,7 +23,7 @@ list_of_files = [
     f"src/__init__.py",
     "app.py",
     "Dockerfile",
-    "requirements.txt",
+    "requirement.txt",
     "setup.py"
 ]
 

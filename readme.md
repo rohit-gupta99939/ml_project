@@ -51,8 +51,16 @@ step 17: write code inside src/mlproject/logging.py and exception.py and app.py
 run 
 python app.py
 
-step 18: git hub add .
+step 18: git add .
 git commit -m "logging and exception code writen"
 git push origin main
+
+step 19: write code for data ingestion
+create collage database in your my sql workbanch
+upload the raw data into it.
+crate .env file which contains data regarding host name , password, database etc.
+write code in ulits which will read the data from data base and convert into dataframe.
+write code for data ingestion
+save the code into git
 
 
