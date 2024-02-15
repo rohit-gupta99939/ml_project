@@ -63,4 +63,14 @@ write code in ulits which will read the data from data base and convert into dat
 write code for data ingestion
 save the code into git
 
+step 20: install DVC (data virsion control)
+pip install dvc
+initialize dvc - ddvc init
+delete the artifects folder to untract the data
+then git commit and push data
+re run app.py
+run following command to trac the file using dvc
+dvc add artifacts/raw.csv
+
+
 
